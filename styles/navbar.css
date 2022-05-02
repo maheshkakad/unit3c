@@ -1,0 +1,9 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: 60px;
+  }
+  input{
+    height: 30px;
+  }
